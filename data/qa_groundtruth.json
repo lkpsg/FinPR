@@ -1,0 +1,1553 @@
+[
+    {
+        "uid": "59e8fe272d862092ad6b8422facb2955",
+        "source": "leidos-holdings_2019.pdf",
+        "inc": "leidos holdings, inc.",
+        "url": "https://www.sec.gov/Archives/edgar/data/1336920/0001336920-20-000023-index.htm",
+        "questions": [
+            {
+                "query": "What was the increase in cash provided by operating activities in 2019?",
+                "pid": [267],
+                "ptype": "text"
+            },
+            {
+                "query": "What caused the increase in net cash provided by operating activities in 2018?",
+                "pid": [268],
+                "ptype": "text"
+            },
+            {
+                "query": "What was the Net cash provided by (used in) investing activities in fiscal 2029, 2018 and 2017 respectively?",
+                "pid": [
+                    273,
+                    355
+                ],
+                "ptype": "table"
+            },
+            {
+                "query": "In which year was Net cash provided by operating activities less than 800 million?",
+                "pid": [
+                    273,
+                    355
+                ],
+                "ptype": "table"
+            },
+            {
+                "query":"What was the change in the Net cash provided by (used in) investing activities from 2017 to 2018?",
+                "pid": [
+                    273,
+                    355
+                ],
+                "ptype": "table"
+            },
+            {
+                "query":"What was the average Net cash used in financing activities between fiscal years 2017-2019?",
+                "pid":[
+                    273,
+                    355
+                ],
+                "ptype": "table"
+            }
+        ]
+    },
+    {
+        "uid": "4f00cc063cb8e99a038d7b4a2f77627b",
+        "source": "leidos-holdings_2019.pdf",
+        "inc": "leidos holdings, inc.",
+        "url": "https://www.sec.gov/Archives/edgar/data/1336920/0001336920-20-000023-index.htm",
+        "questions": [
+            {
+                "query": "What was the amortization related to its transition costs and project assets in 2020 and 2018 respectively?",
+                "pid": [637],
+                "type": "text"
+            },
+            {
+                "query": "What were the balances net of dividends received during fiscal 2019 and fiscal 2018 respectively?",
+                "pid": [639],
+                "type": "table"
+            },
+            {
+                "query": "What did the company combine \"Dividends payable and \"Income taxes payable\" with in 2020 on the consolidated balance sheets?",
+                "pid": [368, 640],
+                "type": "text"
+            },
+            {
+                "query": "In which year was Transition costs and project assets under other current assets less than 100 million?",
+                "pid": [641],
+                "type": "table"
+            },
+            {
+                "query": "What was the change in the Pre-contract costs from 2018 to 2020?",
+                "pid": [641],
+                "type": "table"
+            },
+            {
+                "query": "What was the change in the Equity method investments from 2018 to 2020?",
+                "pid": [641],
+                "type": "table"
+            }
+        ]
+    },
+    {
+        "uid": "87d7fddb42cdd7554e61be3c70ebb97b",
+        "source": "quotient-technology-inc_2019.pdf",
+        "inc": "quotient technology inc.",
+        "url": "https://www.sec.gov/Archives/edgar/data/1115128/0001564590-20-007918-index.htm",
+        "questions": [
+            {
+                "query": "Where does the company file income tax returns in?",
+                "pid": [771],
+                "type": "text"
+            },
+            {
+                "query": "What was the amount of accrued interest or penalties related to uncertain tax positions as of December 31, 2019?",
+                "pid": [770],
+                "type": "text"
+            },
+            {
+                "query": "Why would the unrecognized tax benefits, if recognized, not impact the company's effective tax rate?",
+                "pid": [769],
+                "type": "text"
+            },
+            {
+                "query": "What was the average unrecognized tax benefit - beginning balance, across the 3 year period from 2017 to 2019?",
+                "pid": [768],
+                "type": "table"
+            },
+            {
+                "query": "Which of the years had unrecognized tax benefit - ending balance of greater than $8,200 thousand?",
+                "pid": [768],
+                "type": "table"
+            },
+            {
+                "query": "What is the total unrecognized tax benefit - ending balance across all 3 years?",
+                "pid": [768],
+                "type": "table"
+            }
+        ]
+    },
+    {
+        "uid": "30e46d073b61081f322200a8a8502b41",
+        "source": "macom-technology_2019.pdf",
+        "inc": "macom technology solutions holdings, inc.",
+        "url": "https://www.sec.gov/Archives/edgar/data/1493594/0001493594-19-000064-index.htm",
+        "questions": [
+            {
+                "query": "What was the share based compensation expense in 2017?",
+                "pid": [673],
+                "type": "text"
+            }
+        ]
+    },
+    {
+        "uid": "6f99a700db4e43c1bc6abf015c2b677a",
+        "source": "plexus-corp_2019.pdf",
+        "inc": "plexus corp",
+        "url": "https://www.sec.gov/Archives/edgar/data/785786/0000785786-19-000059-index.htm",
+        "questions": [
+            {
+                "query": "How does the company define ROIC?",
+                "pid": [266],
+                "type": "text"
+            },
+            {
+                "query": "How often does the company review their internal calculation of WACC?",
+                "pid": [267],
+                "type": "text"
+            },
+            {
+                "query": "What was the average invested capital in 2018?",
+                "pid": [270],
+                "type": "table"
+            },
+            {
+                "query": "What was the change in the Adjusted operating income (tax effected) between 2018 and 2019?",
+                "pid": [270],
+                "type": "table"
+            },
+            {
+                "query": "What was the percentage change in the WACC between 2018 and 2019?",
+                "pid": [267, 270],
+                "type": "both"
+            },
+            {
+                "query": "What was the percentage change in the Average invested capital between 2018 and 2019?",
+                "pid": [270],
+                "type": "table"
+            }
+        ]
+    },
+    {
+        "uid": "f6368ece2c45f8080d07ccc5817d2431",
+        "source": "marin-software-inc_2019.pdf",
+        "inc": "marin software inc",
+        "url": "https://www.sec.gov/Archives/edgar/data/1389002/0001564590-20-012228-index.htm",
+        "questions": [
+            {
+                "query": "What is the value of the goodwill impairment charge in the fourth quarter of 2019?",
+                "pid": [311],
+                "type": "text"
+            },
+            {
+                "query": "What is the value of the goodwill impairment charge in the third quarter of 2018?",
+                "pid": [311],
+                "type": "text"
+            }
+        ]
+    },
+    {
+        "uid": "0ba33bc0610e557810de948f4248719e",
+        "source": "leidos-holdings_2019.pdf",
+        "inc": "leidos holdings, inc.",
+        "url": "https://www.sec.gov/Archives/edgar/data/1336920/0001336920-20-000023-index.htm",
+        "questions": [
+            {
+                "query": "What was the objective of cash flow hedges?",
+                "pid": [601],
+                "type": "text"
+            },
+            {
+                "query": "What was the maturity date of the Company's Variable Rate Loans?",
+                "pid": [601],
+                "type": "text"
+            },
+            {
+                "query": "What was the Total interest expense, net presented in the consolidated statements of income in which the effects of cash flow hedges are recorded in 2020, 2018 and 2017 respectively?",
+                "pid": [605],
+                "type": "table"
+            },
+            {
+                "query": "In which period was Total interest expense, net presented in the consolidated statements of income in which the effects of cash flow hedges are recorded less than 140 million?",
+                "pid": [605],
+                "type": "table"
+            },
+            {
+                "query": "What was the change in the Amount recognized in other comprehensive (loss) income from 2017 to 2018?",
+                "pid": [605],
+                "type": "table"
+            },
+            {
+                "query": "What was the change in Total interest expense, net presented in the consolidated statements of income in which the effects of cash flow hedges are recorded between 2017 and 2018?",
+                "pid": [605],
+                "type": "table"
+            }
+        ]
+    },
+    {
+        "uid": "3fa3766530d2f9f7c533e997f5d7a5dd",
+        "source": "roper-technologies_2019.pdf",
+        "inc": "roper technologies inc",
+        "url": "https://www.sec.gov/Archives/edgar/data/882835/0000882835-20-000006-index.htm",
+        "questions": [
+            {
+                "query": "What was the reclassification and others in 2019 primarily due to?",
+                "pid": [398],
+                "type": "text"
+            },
+            {
+                "query": "What were the balances of Application Software and Process Technologies on December 31, 2017, respectively?",
+                "pid": [397],
+                "type": "table"
+            },
+            {
+                "query": "What is the total goodwill acquired in the Network Software & Systems segment from 2018 to 2019?",
+                "pid": [397],
+                "type": "table"
+            },
+            {
+                "query": "What is the proportion of balances in the Application Software and Process Technologies segments over total balances in all segments at December 31, 2018?",
+                "pid": [397],
+                "type": "table"
+            },
+            {
+                "query": "What is the percentage change in the total balance of goodwill of the Network Software & Systems segment in 2019 compared to 2018?",
+                "pid": [397],
+                "type": "table"
+            }
+        ]
+    },
+    {
+        "uid": "028ee763c1f90a74df4736ce7b5ffba4",
+        "source": "cubic-corp_2019.pdf",
+        "inc": "cubic corp /de/",
+        "url": "https://www.sec.gov/Archives/edgar/data/26076/0001558370-19-011159-index.htm",
+        "questions": [
+            {
+                "query": "What is Deltenna?",
+                "pid": [800],
+                "type": "text"
+            },
+            {
+                "query": "What is the first step of the test for goodwill impairment?",
+                "pid": [802],
+                "type": "text"
+            },
+            {
+                "query": "Which reporting units are analyzed by the company in their annual goodwill impairment test?",
+                "pid": [801],
+                "type": "text"
+            },
+            {
+                "query": "In which business segment was the net balances at September 30, 2018 the largest?",
+                "pid": [798],
+                "type": "table"
+            },
+            {
+                "query": "What is the difference between the amount of net balances at September 30, 2019 between Cubic Mission Solutions and Cubic Global Defense?",
+                "pid": [798],
+                "type": "table"
+            },
+            {
+                "query": "What is the average of the amount of net balances at September 30, 2019 for Cubic Transportation Systems, Cubic Mission Solutions and Cubic Global Defense?",
+                "pid": [798],
+                "type": "table"
+            }
+        ]
+    },
+    {
+        "uid": "5f9e7b09281aad0e829b4ac500bbc419",
+        "source": "advanced-energy_2019.pdf",
+        "inc": "advanced energy industries inc",
+        "url": "https://www.sec.gov/Archives/edgar/data/927003/0001558370-20-001892-index.htm",
+        "questions": [
+            {
+                "query": "What was the gross profit in 2018?",
+                "pid": [277, 312, 388],
+                "type": "table"
+            },
+            {
+                "query": "What was the change in operating expenses between 2018 and 2019?",
+                "pid": [277, 284, 312, 388]
+            }
+        ]
+    },
+    {
+        "uid": "f1068e3989914809aef217d162db5f2f",
+        "source": "adtran-inc_2019.pdf",
+        "inc": "adtran inc",
+        "url": "https://www.sec.gov/Archives/edgar/data/926282/0001564590-20-006425-index.htm",
+        "questions": [
+            {
+                "query": "What was the sales in the United States in 2019?",
+                "pid": [696],
+                "type": "table"
+            },
+            {
+                "query": "What was the sales in Mexico in 2018?",
+                "pid": [696],
+                "type": "table"
+            },
+            {
+                "query": "What was the change in sales in Germany between 2018 and 2019?",
+                "pid": [696],
+                "type": "table"
+            },
+            {
+                "query": "What was the change in sales in Mexico between 2017 and 2018?",
+                "pid": [696],
+                "type": "table"
+            },
+            {
+                "query": "What was the percentage change in total sales between 2018 and 2019?",
+                "pid": [234, 389, 686, 696],
+                "type": "table"
+            }
+        ]
+    },
+    {
+        "uid": "525032451ab45a3ba6d2629c06d68d1d",
+        "source": "advanced-energy_2019.pdf",
+        "inc": "advanced energy industries inc",
+        "url": "https://www.sec.gov/Archives/edgar/data/927003/0001558370-20-001892-index.htm",
+        "questions": [
+            {
+                "query": "What was the percentage of sales represented by gross profit in 2018?",
+                "pid": [277, 279, 293],
+                "type": "table"
+            },
+            {
+                "query": "What was the percentage of sales represented by operating expenses in 2019?",
+                "pid": [277, 279, 388],
+                "type": "table"
+            },
+            {
+                "query": "What was the change in percentage of sales represented by gross profit between 2018 and 2019?",
+                "pid": [277, 279, 293],
+                "type": "table"
+            },
+            {
+                "query": "What was the change in percentage of sales represented by net other income between 2018 and 2019?",
+                "pid": [277, 279, 388],
+                "type": "table"
+            }
+        ]
+    },
+    {
+        "uid": "82f59cefbb50bb0f153ca236d85424db",
+        "source": "te-connectivity-ltd_2019.pdf",
+        "inc": "te connectivity ltd.",
+        "url": "https://www.sec.gov/Archives/edgar/data/1385157/0001558370-19-010758-index.htm",
+        "questions": [
+            {
+                "query": "How much did operating income in the transportation solutions segment change by in 2019?",
+                "pid": [267],
+                "type": "text"
+            },
+            {
+                "query": "Why did operating income decrease in fiscal 2019?",
+                "pid": [269],
+                "type": "text"
+            },
+            {
+                "query": "In which year was the amount of acquisition and integration costs larger?",
+                "pid": [173, 246, 268, 281],
+                "type": "table"
+            }
+        ]
+    },
+    {
+        "uid": "ecbc9696600502b3dc792c59233f5efe",
+        "source": "te-connectivity-ltd_2019.pdf",
+        "inc": "te connectivity ltd.",
+        "url": "https://www.sec.gov/Archives/edgar/data/1385157/0001558370-19-010758-index.htm",
+        "questions": []
+    },
+    {
+        "uid": "8f9110a2af02383fbae1dd8502df63a0",
+        "source": "sanderson-farms_2019.pdf",
+        "inc": "sanderson farms inc",
+        "url": "https://www.sec.gov/Archives/edgar/data/812128/0000812128-19-000017-index.htm",
+        "questions": [
+            {
+                "query": "What is the primary reason for the increase in the Company's deferred tax liability?",
+                "pid": [268, 441],
+                "type": "text"
+            },
+            {
+                "query": "What is the Property, plant and equipment for fiscal years 2019 and 2018 respectively?",
+                "pid": [440],
+                "type": "table"
+            },
+            {
+                "query": "What is the Net deferred tax liabilities for fiscal years 2019 and 2018 respectively?",
+                "pid": [440],
+                "type": "table"
+            },
+            {
+                "query": "What is the average Net deferred tax liabilities for fiscal years 2019 and 2018?",
+                "pid": [440],
+                "type": "table"
+            },
+            {
+                "query": "What is the average total deferred tax liabilities for fiscal years 2019 and 2018?",
+                "pid": [440],
+                "type": "table"
+            },
+            {
+                "query": "What is the average total deferred tax assets for fiscal years 2019 and 2018?",
+                "pid": [440],
+                "type": "table"
+            }
+        ]
+    },
+    {
+        "uid": "2f66d674d008a240d4a28a3f9349c66b",
+        "source": "cincinnati-bell-inc_2019.pdf",
+        "inc": "cincinnati bell inc",
+        "url": "https://www.sec.gov/Archives/edgar/data/716133/0001564590-20-006066-index.htm",
+        "questions": [
+            {
+                "query": "How many Executive Officers are there in the company as at 24 February 2020?",
+                "pid": [980, 981],
+                "type": "both"
+            },
+            {
+                "query": "What is the average age of the executive officers of the company as at 24 February 2020?",
+                "pid": [981],
+                "type": "both"
+            },
+            {
+                "query": "How often are the executive officers of the company elected?",
+                "pid": [982],
+                "type": "text"
+            },
+            {
+                "query": "How long is Leigh Fox's tenure with the company?",
+                "pid": [983],
+                "type": "text"
+            },
+            {
+                "query": "Who is the company's Chief Financial Officer?",
+                "pid": [507, 984],
+                "type": "both"
+            },
+            {
+                "query": "Who is the Vice President of Treasury, Corporate Finance and Inventor Relations since October 2017?",
+                "pid": [981, 988],
+                "type": "both"
+            }
+        ]
+    },
+    {
+        "uid": "1c5aaf3f3c28e0d325567ae8c3f7b230",
+        "source": "jack-in-the-box-inc_2019.pdf",
+        "inc": "jack in the box inc /new/",
+        "url": "https://www.sec.gov/Archives/edgar/data/807882/0000807882-19-000023-index.htm",
+        "questions": [
+            {
+                "query": "Which market is the common stock traded at?",
+                "pid": [196],
+                "type": "text"
+            },
+            {
+                "query": "What symbol does the common stock adopt in the market?",
+                "pid": [196],
+                "type": "text"
+            },
+            {
+                "query": "How many cash dividends were declared in fiscal 2018 and 2019?",
+                "pid": [198, 211, 332],
+                "type": "text"
+            },
+            {
+                "query": "What is the difference between the high and low price in September 29, 2019?",
+                "pid": [197],
+                "type": "table"
+            },
+            {
+                "query": "What is the percentage increase in the high price from July 7, 2019 to September 29, 2019?",
+                "pid": [197],
+                "type": "table"
+            },
+            {
+                "query": "What is the difference in the low prices between September 30, 2018 and July 8, 2018?",
+                "pid": [197],
+                "type": "table"
+            }
+        ]
+    },
+    {
+        "uid": "97fcbe713b2300efb54a611237131fde",
+        "source": "sanderson-farms_2019.pdf",
+        "inc": "sanderson farms inc",
+        "url": "https://www.sec.gov/Archives/edgar/data/812128/0000812128-19-000017-index.htm",
+        "questions": [
+            {
+                "query": "What is the net income for fiscal years 2019 to 2017 respectively?",
+                "pid": [223, 376, 380, 448],
+                "type": "table"
+            },
+            {
+                "query": "What is the earnings per common basic share for fiscal years 2019 to 2017 respectively?",
+                "pid": [223, 376, 448],
+                "type": "table"
+            },
+            {
+                "query": "What is the earnings per common diluted share for fiscal years 2019 to 2017 respectively?",
+                "pid": [223, 376, 448],
+                "type": "table"
+            },
+            {
+                "query": "What is the average net income for fiscal years 2019 and 2018?",
+                "pid": [223, 376, 380, 448],
+                "type": "table"
+            },
+            {
+                "query": "What is the change in net income between fiscal years 2019 and 2018?",
+                "pid": [223, 376, 380, 448],
+                "type": "table"
+            }
+        ]
+    },
+    {
+        "uid": "5ad129a7811eecc376281f624eb26150",
+        "source": "cubic-corp_2019.pdf",
+        "inc": "cubic corp /de/",
+        "url": "https://www.sec.gov/Archives/edgar/data/26076/0001558370-19-011159-index.htm",
+        "questions": [
+            {
+                "query": "What is the company paid on a cost-plus type contract?",
+                "pid": [940],
+                "type": "text"
+            },
+            {
+                "query": "What is the amount of total sales in 2019?",
+                "pid": [353, 356, 514, 932, 936, 938, 941, 943, 945],
+                "type": "table"
+            },
+            {
+                "query": "What are the contract types?",
+                "pid": [939, 940],
+                "type": "text"
+            },
+            {
+                "query": "In which year is the amount of total sales the largest?",
+                "pid": [353, 514, 932, 936, 938, 941, 943],
+                "type": "table"
+            },
+            {
+                "query": "What is the change in Other in 2019 from 2018?",
+                "pid": [941],
+                "type": "table"
+            },
+            {
+                "query": "What is the percentage change in Other in 2019 from 2018?",
+                "pid": [941],
+                "type": "table"
+            }
+        ]
+    },
+    {
+        "uid": "39e4d8451914be777f7a671673803001",
+        "source": "maxlinear-inc_2019.pdf",
+        "inc": "maxlinear inc",
+        "url": "https://www.sec.gov/Archives/edgar/data/1288469/0001288469-20-000013-index.htm",
+        "questions": []
+    },
+    {
+        "uid": "e75ae83697fa878824fb62a150fa6d92",
+        "source": "macom-technology_2019.pdf",
+        "inc": "macom technology solutions holdings, inc.",
+        "url": "https://www.sec.gov/Archives/edgar/data/1493594/0001493594-19-000064-index.htm",
+        "questions": [
+            {
+                "query": "When does the company grant NQs?",
+                "pid": [679],
+                "type": "text"
+            },
+            {
+                "query": "When does the share-based compensation expense reverse?",
+                "pid": [679],
+                "type": "text"
+            },
+            {
+                "query": "What was the Risk-free interest rate in 2019, 2018 and 2017 respectively?",
+                "pid": [682],
+                "type": "table"
+            },
+            {
+                "query": "What was the average Expected term (years) for 2017-2019?",
+                "pid": [682],
+                "type": "table"
+            },
+            {
+                "query": "What is the change in the Expected volatility from 2018 to 2019?",
+                "pid": [682],
+                "type": "table"
+            },
+            {
+                "query": "In which year was Risk-free interest rate greater than 2.0%?",
+                "pid": [682],
+                "type": "table"
+            }
+        ]
+    },
+    {
+        "uid": "6d966ad0524ed9856b3f5191d05783d3",
+        "source": "micron-technology-inc_2019.pdf",
+        "inc": "micron technology inc",
+        "url": "https://www.sec.gov/Archives/edgar/data/723125/0000723125-19-000094-index.htm",
+        "questions": [
+            {
+                "query": "When has IMFT discontinued the production of NAND?",
+                "pid": [33, 513],
+                "type": "text"
+            },
+            {
+                "query": "How IMFT's capital requirements were generally determined?",
+                "pid": [514],
+                "type": "text"
+            },
+            {
+                "query": "What were the total liabilities of IMFT in 2018?",
+                "pid": [517],
+                "type": "table"
+            },
+            {
+                "query": "What is the ratio of IMFT's total assets to total liabilities in 2019?",
+                "pid": [517],
+                "type": "table"
+            },
+            {
+                "query": "What is the proportion of IMFT's property, plant, and equipment over total assets in 2018?",
+                "pid": [517],
+                "type": "table"
+            },
+            {
+                "query": "What is the change of IMFT's total assets from 2018 to 2019?",
+                "pid": [517],
+                "type": "table"
+            }
+        ]
+    },
+    {
+        "uid": "60e406f5b6f6ae7121f8684fb3e4b05e",
+        "source": "quotient-technology-inc_2019.pdf",
+        "inc": "quotient technology inc.",
+        "url": "https://www.sec.gov/Archives/edgar/data/1115128/0001564590-20-007918-index.htm",
+        "questions": [
+            {
+                "query": "How much was the total stock-based compensation expense (recognized and unrecognized) in 2019, in thousands?",
+                "pid": [745, 747],
+                "type": "both"
+            },
+            {
+                "query": "How many categories are there under total stock-based compensation expense?",
+                "pid": [744, 745],
+                "type": "table"
+            },
+            {
+                "query": "What do stock-based compensation expense result from?",
+                "pid": [744],
+                "type": "text"
+            },
+            {
+                "query": "Over how many years will the total unrecognized stock-based compensation expense related to stock options and ESPP, and RSUs as of December 31, 2019 be amortized over?",
+                "pid": [747],
+                "type": "text"
+            },
+            {
+                "query": "What was the amount of unrecognized stock-based compensation expense related to RSUs as of December 31, 2019?",
+                "pid": [747],
+                "type": "text"
+            }
+
+        ]
+    },
+    {
+        "uid": "9628b6f3810590dd49e225f5d057920c",
+        "source": "ringcentral_2019.pdf",
+        "inc": "ringcentral, inc.",
+        "url": "https://www.sec.gov/Archives/edgar/data/1384905/0001384905-20-000008-index.htm",
+        "questions": [
+            {
+                "query": "What do purchase obligations represent?",
+                "pid": [420],
+                "type": "text"
+            },
+            {
+                "query": "What are the respective values of the company's operating lease and financing obligations that are between 1 to 3 years?",
+                "pid": [419],
+                "type": "table"
+            },
+            {
+                "query": "What are the respective values of the company's operating lease and financing obligations that are between 3 to 5 years?",
+                "pid": [419],
+                "type": "table"
+            },
+            {
+                "query": "What is the company's total purchase obligations that are due within 5 years? ",
+                "pid": [419],
+                "type": "table"
+            },
+            {
+                "query": "What is the value of the company's total financing obligations as a percentage of its total purchase obligations?",
+                "pid": [419],
+                "type": "table"
+            },
+            {
+                "query": "What is the company's total operating lease obligations that are due within 5 years? ",
+                "pid": [419],
+                "type": "table"
+            }
+        ]
+    },
+    {
+        "uid": "655b1f6aa9c1e5daf366f0ab9014687b",
+        "source": "csp-inc_2019.pdf",
+        "inc": "csp inc /ma/",
+        "url": "https://www.sec.gov/Archives/edgar/data/356037/0000356037-19-000049-index.htm",
+        "questions": []
+    },
+    {
+        "uid": "67a0f5b8398b39155067f20915efe454",
+        "source": "te-connectivity-ltd_2019.pdf",
+        "inc": "te connectivity ltd.",
+        "url": "https://www.sec.gov/Archives/edgar/data/1385157/0001558370-19-010758-index.htm",
+        "questions": [
+            {
+                "query": "Where can the discussion of operating income be found?",
+                "pid": [248],
+                "type": "text"
+            },
+            {
+                "query": "What was the change in Total operating income in 2019 from 2018?",
+                "pid": [246],
+                "type": "table"
+            },
+            {
+                "query": "What was the percentage change in Total operating income in 2019 from 2018?",
+                "pid": [246],
+                "type": "table"
+            }
+        ]
+    },
+    {
+        "uid": "599d4ef0e5c755af465c0a9941bffb95",
+        "source": "network-1-technologies_2019.pdf",
+        "inc": "network 1 technologies inc",
+        "url": "https://www.sec.gov/Archives/edgar/data/1065078/0001072613-20-000136-index.htm",
+        "questions": []
+    },
+    {
+        "uid": "82747e93346ac1d1371db9f7b62a8dcc",
+        "source": "brainstorm-cell-therapeutics_2019.pdf",
+        "inc": "brainstorm cell therapeutics inc.",
+        "url": "https://www.sec.gov/Archives/edgar/data/1137883/0001104659-20-022244-index.htm",
+        "questions": [
+            {
+                "query": "What was the operating loss carryforward amount in 2019 and 2018 respectively?",
+                "pid": [758],
+                "type": "table"
+            },
+            {
+                "query": "What was the net deferred tax asset before valuation allowance amount in 2019 and 2018 respectively?",
+                "pid": [758],
+                "type": "table"
+            },
+            {
+                "query": "What was the net deferred tax asset amount in 2019 and 2018 respectively?",
+                "pid": [758],
+                "type": "table"
+            },
+            {
+                "query": "What is the percentage change in the operating loss carryforward from 2018 to 2019?",
+                "pid": [758],
+                "type": "table"
+            },
+            {
+                "query": "What is the percentage change in the valuation allowance from 2018 to 2019?",
+                "pid": [758],
+                "type": "table"
+            },
+            {
+                "query": "What is the percentage change in the net deferred tax asset from 2018 to 2019?",
+                "pid": [758],
+                "type": "table"
+            }
+        ]
+    },
+    {
+        "uid": "a62c00f8a92864a6e198b67593066a9d",
+        "source": "systemax-inc_2019.pdf",
+        "inc": "systemax inc",
+        "url": "https://www.sec.gov/Archives/edgar/data/945114/0000945114-20-000008-index.htm",
+        "questions": []
+    },
+    {
+        "uid": "40d9fb071b43d313aca21536d7c9b170",
+        "source": "ricebran-technologies_2019.pdf",
+        "inc": "ricebran technologies",
+        "url": "https://www.sec.gov/Archives/edgar/data/1063537/0001140361-20-006720-index.htm",
+        "questions": [
+            {
+                "query": "What are the respective cash amount at June 30 and December 31, 2019?",
+                "pid": [256],
+                "type": "table"
+            },
+            {
+                "query": "What are the respective working capital adjustment at June 30 and December 31, 2019?",
+                "pid": [256],
+                "type": "table"
+            },
+            {
+                "query": "What are the respective total fair value of consideration transferred at June 30 and December 31, 2019?",
+                "pid": [256],
+                "type": "table"
+            },
+            {
+                "query": "What is the change in the cash amount between June 30 and December 31, 2019?",
+                "pid": [256],
+                "type": "table"
+            },
+            {
+                "query": "What is the percentage change in the working capital adjustment at June 30 and December 31, 2019?",
+                "pid": [256],
+                "type": "table"
+            },
+            {
+                "query": "What is the percentage change in the total fair value of consideration transferred at June 30 and December 31, 2019?",
+                "pid": [256],
+                "type": "table"
+            }
+        ]
+    },
+    {
+        "uid": "249a345bb86b13642427834d02363ff8",
+        "source": "micron-technology-inc_2019.pdf",
+        "inc": "micron technology inc",
+        "url": "https://www.sec.gov/Archives/edgar/data/723125/0000723125-19-000094-index.htm",
+        "questions": [
+            {
+                "query": "What is the percentage revenue from sales into China based on the ship-to locations specified by the customers in 2017, 2018, and 2019, respectively?",
+                "pid": [602],
+                "type": "text"
+            },
+            {
+                "query": "What is the percentage revenue from sales into Taiwan based on the ship-to locations specified by the customers in 2017, 2018, and 2019, respectively?",
+                "pid": [602],
+                "type": "text"
+            },
+            {
+                "query": "What is the revenue from the United States in 2018 based on the geographic location of the customer's headquarters?",
+                "pid": [601],
+                "type": "table"
+            },
+            {
+                "query": "What is the percentage change of revenue from Hong Kong from 2017 to 2018, based on the geographic location of the customer's headquarters?",
+                "pid": [601],
+                "type": "table"
+            },
+            {
+                "query": "What is the total percentage of revenue from Taiwan and Japan over total revenue in 2019, based on the geographic location of the customer's headquarters?",
+                "pid": [601],
+                "type": "table"
+            },
+            {
+                "query": "What is the revenue amount from sales into China (including Hong Kong) in 2019, based on the ship-to locations?",
+                "pid": [601, 602],
+                "type": "both"
+            }
+        ]
+    },
+    {
+        "uid": "4b528eb35807a61dcad7b7f9c3b994a2",
+        "source": "cornerstone-ondemand-inc_2019.pdf",
+        "inc": "cornerstone ondemand inc",
+        "url": "https://www.sec.gov/Archives/edgar/data/1401680/0001401680-20-000004-index.htm",
+        "questions": [
+            {
+                "query": "What were the company's cash flows from operating activities influenced by?",
+                "pid": [406],
+                "type": "text"
+            },
+            {
+                "query": "What was the net cash provided by operating activities in 2017?",
+                "pid": [405, 411, 473],
+                "type": "table"
+            },
+            {
+                "query": "What was the net cash provided by financing activites in 2019?",
+                "pid": [405, 473],
+                "type": "table"
+            },
+            {
+                "query": "What was the average net cash provided by operating activities from 2017-2019?",
+                "pid": [405, 411, 473],
+                "type": "table"
+            },
+            {
+                "query": "What is the percentage change in Net cash used in investing activities between 2018 and 2019?",
+                "pid": [405, 473],
+                "type": "table"
+            },
+            {
+                "query": "What is the percentage change in net cash provided by operating activities between 2017 and 2018?",
+                "pid": [405, 411, 473],
+                "type": "table"
+            }
+        ]
+    },
+    {
+        "uid": "d7b3282af1c3f4a52958cb156b6cca98",
+        "source": "cubic-corp_2019.pdf",
+        "inc": "cubic corp /de/",
+        "url": "https://www.sec.gov/Archives/edgar/data/26076/0001558370-19-011159-index.htm",
+        "questions": [
+            {
+                "query": "What is the company's ongoing involvement limited to?",
+                "pid": [448, 779],
+                "type": "text"
+            },
+            {
+                "query": "What has the component of accounts receivable that consisted of unbilled contract receivables as reported under ASC 605 been reclassified to? ",
+                "pid": [625, 778],
+                "type": "text"
+            },
+            {
+                "query": "What types of accounts receivable are there?",
+                "pid": [777],
+                "type": "table"
+            },
+            {
+                "query": "In which year was the billed accounts receivable larger?",
+                "pid": [777],
+                "type": "table"
+            },
+            {
+                "query": "What is the sum of amounts billed due on U.S. federal government contracts in 2018 and 2019?",
+                "pid": [778],
+                "type": "text"
+            },
+            {
+                "query": "What is the average annual amount of current accounts receivable in 2018 and 2019?",
+                "pid": [534, 777],
+                "type": "table"
+            }
+        ]
+    },
+    {
+        "uid": "2d440dca7029c64e7642bbc45e4cc906",
+        "source": "jack-in-the-box-inc_2019.pdf",
+        "inc": "jack in the box inc /new/",
+        "url": "https://www.sec.gov/Archives/edgar/data/807882/0000807882-19-000023-index.htm",
+        "questions": [
+            {
+                "query": "Where are the principal executive offices located?",
+                "pid": [192],
+                "type": "text"
+            },
+            {
+                "query": "What is the size of the principal executive offices?",
+                "pid": [192],
+                "type": "text"
+            },
+            {
+                "query": "What is the number of ground leases expiring between fiscal year 2020 - 2024?",
+                "pid": [191],
+                "type": "table"
+            },
+            {
+                "query": "From fiscal year 2020 - 2024, what is the difference in the number of ground leases and land and building leases expiring?",
+                "pid": [191],
+                "type": "table"
+            },
+            {
+                "query": "From fiscal year 2025 - 2029, what is the total number of ground leases and land and building leases expiring in total?",
+                "pid": [191],
+                "type": "table"
+            },
+            {
+                "query": "What is the difference of ground leases expiring between the periods 2020 - 2024 and 2025 - 2029?",
+                "pid": [191],
+                "type": "table"
+            }
+        ]
+    },
+    {
+        "uid": "da3406d416687337a768901dd9e57002",
+        "source": "neonode-inc_2019.pdf",
+        "inc": "neonode inc.",
+        "url": "https://www.sec.gov/Archives/edgar/data/87050/0001213900-20-005949-index.htm",
+        "questions": [
+            {
+                "query": "What are the weighted-average exchange rates for Japanese Yen and South Korean Won for the year ended December 31, 2018, respectively?",
+                "pid": [227, 228, 517, 518],
+                "type": "both"
+            },
+            {
+                "query": "What is the weighted-average exchange rate for Taiwan Dollar for the years ended December 31, 2018, and 2019, respectively?",
+                "pid": [227, 228, 517, 518],
+                "type": "both"
+            },
+            {
+                "query": "Which foreign currency has the highest weighted-average exchange rate to the U.S. Dollars in 2019?",
+                "pid": [227, 228, 517, 518],
+                "type": "both"
+            },
+            {
+                "query": "What is the percentage change of the Japanese Yen exchange rate from 2018 to 2019?",
+                "pid": [227, 228, 517, 518],
+                "type": "both"
+            },
+            {
+                "query": "What is the ratio of the weighted average exchange rate of Swedish Krona to Taiwan Dollar for the year ended December 31, 2019?",
+                "pid": [227, 228, 517, 518],
+                "type": "both"
+            },
+            {
+                "query": "What currency dollars were the foreign currencies being converted to?",
+                "pid": [227, 517],
+                "type": "text"
+            }
+        ]
+    },
+    {
+        "uid": "072057b32a9b61def14de83615f8a0e5",
+        "source": "leidos-holdings_2019.pdf",
+        "inc": "leidos holdings, inc.",
+        "url": "https://www.sec.gov/Archives/edgar/data/1336920/0001336920-20-000023-index.htm",
+        "questions": [
+            {
+                "query": "What impacted the company's effective tax rate in 2019?",
+                "pid": [243, 688],
+                "type": "text"
+            },
+            {
+                "query": "What was the Amount computed at the statutory federal income tax rate in 2020, 2018 and 2017 respectively?",
+                "pid": [687],
+                "type": "table"
+            },
+            {
+                "query": "What was the State income taxes, net of federal tax benefit in 2020?",
+                "pid": [687],
+                "type": "table"
+            },
+            {
+                "query": "In which year was Amount computed at the statutory federal income tax rate less than 150 million?",
+                "pid": [687],
+                "type": "table"
+            },
+            {
+                "query": "What was the change in the State income taxes, net of federal tax benefit from 2017 to 2018?",
+                "pid": [687],
+                "type": "table"
+            },
+            {
+                "query": "What is the average Excess tax benefits from stock-based compensation in 2018 and 2017?",
+                "pid": [687],
+                "type": "table"
+            }
+        ]
+    },
+    {
+        "uid": "5a65b0e6a4ab79f96a4d3e05674d8462",
+        "source": "brainstorm-cell-therapeutics_2019.pdf",
+        "inc": "brainstorm cell therapeutics inc.",
+        "url": "https://www.sec.gov/Archives/edgar/data/1137883/0001104659-20-022244-index.htm",
+        "questions": []
+    },
+    {
+        "uid": "f61a41683f7f540de066fccee869deee",
+        "source": "mitek-systems_2019.pdf",
+        "inc": "mitek systems inc",
+        "url": "https://www.sec.gov/Archives/edgar/data/807863/0000807863-19-000080-index.htm",
+        "questions": []
+    },
+    {
+        "uid": "c1ea2ff4819e824e68f44b1b60a1cd8a",
+        "source": "cubic-corp_2019.pdf",
+        "inc": "cubic corp /de/",
+        "url": "https://www.sec.gov/Archives/edgar/data/26076/0001558370-19-011159-index.htm",
+        "questions": [
+            {
+                "query": "What are the impacts of significant revisions in contract estimates?",
+                "pid": [482, 580],
+                "type": "text"
+            },
+            {
+                "query": "In which year is the diluted earnings per share the lowest?",
+                "pid": [485, 581],
+                "type": "table"
+            },
+            {
+                "query": "What is the change in operating income (loss) in 2019 from 2018?",
+                "pid": [485, 581],
+                "type": "table"
+            },
+            {
+                "query": "What is the average operating income (loss) across 2017, 2018 and 2019?",
+                "pid": [485, 581],
+                "type": "table"
+            }
+        ]
+    },
+    {
+        "uid": "bf53025254bf57a1a13b4a3c7cc841c1",
+        "source": "coherent-inc_2019.pdf",
+        "inc": "coherent inc",
+        "url": "https://www.sec.gov/Archives/edgar/data/21510/0000021510-19-000034-index.htm",
+        "questions": []
+    },
+    {
+        "uid": "b7ca9197512c59935aef8cfee1a33000",
+        "source": "pegasystems-inc_2019.pdf",
+        "inc": "pegasystems inc",
+        "url": "https://www.sec.gov/Archives/edgar/data/1013857/0001013857-20-000007-index.htm",
+        "questions": [
+            {
+                "query": "What are the company's respective gross profit from software license in 2019 and 2018?",
+                "pid": [236],
+                "type": "table"
+            },
+            {
+                "query": "What are the company's respective gross profit from maintenance in 2019 and 2018?",
+                "pid": [236],
+                "type": "table"
+            },
+            {
+                "query": "What are the company's respective gross profit from cloud in 2019 and 2018?",
+                "pid": [236],
+                "type": "table"
+            },
+            {
+                "query": "What is the company's average revenue from software license between 2018 and 2019?",
+                "pid": [236],
+                "type": "table"
+            },
+            {
+                "query": "What is the company's average revenue from maintenance between 2018 and 2019?",
+                "pid": [236],
+                "type": "table"
+            },
+            {
+                "query": "What is the company's average revenue from cloud between 2018 and 2019?",
+                "pid": [236],
+                "type": "table"
+            }
+        ]
+    },
+    {
+        "uid": "ab0835f3e9b1c97629e6f370675a4a50",
+        "source": "adtran-inc_2019.pdf",
+        "inc": "adtran inc",
+        "url": "https://www.sec.gov/Archives/edgar/data/926282/0001564590-20-006425-index.htm",
+        "questions": [
+            {
+                "query": "Why do deferred income taxes appear on the company's Consolidated Balance Sheets?",
+                "pid": [627],
+                "type": "text"
+            },
+            {
+                "query": "What was the deferred tax assets for Inventory in 2019?",
+                "pid": [628],
+                "type": "table"
+            },
+            {
+                "query": "What were the deferred tax assets accrued expenses for 2019?",
+                "pid": [628],
+                "type": "table"
+            },
+            {
+                "query": "What was the percentage change in net deferred tax assets between 2018 and 2019?",
+                "pid": [628],
+                "type": "table"
+            }
+        ]
+    },
+    {
+        "uid": "dc59e01b03589b2a12158d6ac26b1764",
+        "source": "plexus-corp_2019.pdf",
+        "inc": "plexus corp",
+        "url": "https://www.sec.gov/Archives/edgar/data/785786/0000785786-19-000059-index.htm",
+        "questions": [
+            {
+                "query": "What was the net sales from Malaysia in 2017?",
+                "pid": [561],
+                "type": "table"
+            },
+            {
+                "query": "What was the net sales from Romania in 2019?",
+                "pid": [561],
+                "type": "table"
+            },
+            {
+                "query": "Which years did net sales from United States exceed $1,000,000 thousand?",
+                "pid": [561],
+                "type": "table"
+            },
+            {
+                "query": "What was the change in the net sales from the United Kingdom between 2018 and 2019?",
+                "pid": [561],
+                "type": "table"
+            },
+            {
+                "query": "What was the percentage change in the net sales from Germany between 2018 and 2019?",
+                "pid": [561],
+                "type": "table"
+            }
+        ]
+    },
+    {
+        "uid": "8c4cc201460e6703dc58f5d07900f34b",
+        "source": "adtran-inc_2019.pdf",
+        "inc": "adtran inc",
+        "url": "https://www.sec.gov/Archives/edgar/data/926282/0001564590-20-006425-index.htm",
+        "questions": [
+            {
+                "query": "What does working capital consist of?",
+                "pid": [242, 292],
+                "type": "text"
+            },
+            {
+                "query": "What does total debt outstanding consist of?",
+                "pid": [243],
+                "type": "text"
+            },
+            {
+                "query": "What were the total assets in 2017?",
+                "pid": [238],
+                "type": "table"
+            },
+            {
+                "query": "What was the change in working capital between 2018 and 2019?",
+                "pid": [238],
+                "type": "both"
+            },
+            {
+                "query": "What was the change in total debt between 2017 and 2018?",
+                "pid": [238],
+                "type": "table"
+            },
+            {
+                "query": "What was the percentage change in total assets between 2015 and 2016?",
+                "pid": [238],
+                "type": "table"
+            }
+        ]
+    },
+    {
+        "uid": "280cb2e157d1e8b4586809fb14861f04",
+        "source": "proofpoint_2019.pdf",
+        "inc": "proofpoint inc",
+        "url": "https://www.sec.gov/Archives/edgar/data/1212458/0001564590-20-005557-index.htm",
+        "questions": []
+    },
+    {
+        "uid": "29a89d83a0f88569882adf0c969d385c",
+        "source": "cubic-corp_2019.pdf",
+        "inc": "cubic corp /de/",
+        "url": "https://www.sec.gov/Archives/edgar/data/26076/0001558370-19-011159-index.htm",
+        "questions": []
+    },
+    {
+        "uid": "2ca7befd8512a6a28ea3a8e3c4cf164d",
+        "source": "jack-in-the-box-inc_2019.pdf",
+        "inc": "jack in the box inc /new/",
+        "url": "https://www.sec.gov/Archives/edgar/data/807882/0000807882-19-000023-index.htm",
+        "questions": [
+            {
+                "query": "How many franchise restaurants were acquired in 2017?",
+                "pid": [17],
+                "type": "table"
+            },
+            {
+                "query": "What is the gains on the sale of company-operated restaurants in 2019?",
+                "pid": [211, 261, 292],
+                "type": "table"
+            },
+            {
+                "query": "What is the difference in gains on the sale of company-operated restaurants between 2018 and 2019?",
+                "pid": [211, 261, 292],
+                "type": "table"
+            },
+            {
+                "query": "What is the average number of new restaurants opened by franchisees for 2017, 2018 and 2019?",
+                "pid": [17],
+                "type": "table"
+            }
+        ]
+    },
+    {
+        "uid": "e82fe68a464836aced21fdc1851c62de",
+        "source": "brainstorm-cell-therapeutics_2019.pdf",
+        "inc": "brainstorm cell therapeutics inc.",
+        "url": "https://www.sec.gov/Archives/edgar/data/1137883/0001104659-20-022244-index.htm",
+        "questions": [
+            {
+                "query": "What is the total number of warrants oustanding as of December 31, 2019 that were issued in August 2019?",
+                "pid": [650],
+                "type": "table"
+            },
+            {
+                "query": "What is the amount of cash the Company has raised in consideration for issuances of Common Stock and warrants in private placements and public offerings as well as proceeds from warrants exercises? ",
+                "pid": [647],
+                "type": "text"
+            },
+            {
+                "query": "What is the total warrants outstanding as of December 31, 2019?",
+                "pid": [650],
+                "type": "table"
+            },
+            {
+                "query": "What is the change in warrants outstanding from Aug 2007-Jan 2011 to Jun-2018?",
+                "pid": [650],
+                "type": "table"
+            },
+            {
+                "query": "What is the percentage change in the warrants outstanding from Jun-2018 to Aug-2019?",
+                "pid": [650],
+                "type": "table"
+            },
+            {
+                "query": "In which period is the warrants outstanding the highest?",
+                "pid": [650],
+                "type": "table"
+            }
+        ]
+    },
+    {
+        "uid": "f5878758878cb3d640b25843695964fb",
+        "source": "cornerstone-ondemand-inc_2019.pdf",
+        "inc": "cornerstone ondemand inc",
+        "url": "https://www.sec.gov/Archives/edgar/data/1401680/0001401680-20-000004-index.htm",
+        "questions": [
+            {
+                "query": "What was the company's equity ownership in Talespin, Inc?",
+                "pid": [571],
+                "type": "text"
+            },
+            {
+                "query": "How much was the company's investment in Talespin, Inc?",
+                "pid": [402, 571],
+                "type": "text"
+            },
+            {
+                "query": "How much was the non-marketable investments accounted for using the equity method in 2019?",
+                "pid": [572],
+                "type": "table"
+            },
+            {
+                "query": "What is the percentage change of the investments accounted for at cost, adjusted for observable price changes between 2018 and 2019?",
+                "pid": [572],
+                "type": "table"
+            },
+            {
+                "query": "What percentage of total non-marketable investments were accounted for using the equity method in 2019?",
+                "pid": [572],
+                "type": "table"
+            },
+            {
+                "query": "What is the change in total non-marketable investments between 2018 and 2019?",
+                "pid": [572],
+                "type": "table"
+            }
+        ]
+    },
+    {
+        "uid": "6a6cdcc9aa172495e08204d4893ee018",
+        "source": "jack-in-the-box-inc_2019.pdf",
+        "inc": "jack in the box inc /new/",
+        "url": "https://www.sec.gov/Archives/edgar/data/807882/0000807882-19-000023-index.htm",
+        "questions": []
+    },
+    {
+        "uid": "495a444939d6245f19d7fb8fb3c1470c",
+        "source": "sanderson-farms_2019.pdf",
+        "inc": "sanderson farms inc",
+        "url": "https://www.sec.gov/Archives/edgar/data/812128/0000812128-19-000017-index.htm",
+        "questions": [
+            {
+                "query": "What is the value of Processed poultry as of October 31, 2019 and 2018 respectively?",
+                "pid": [418],
+                "type": "table"
+            },
+            {
+                "query": "What is the value of Prepared chicken as of October 31, 2019 and 2018 respectively?",
+                "pid": [418],
+                "type": "table"
+            },
+            {
+                "query": "What is the increase in prepared chicken inventory due to?",
+                "pid": [421],
+                "type": "text"
+            },
+            {
+                "query": "What is the change in the value of Total inventories between October 31, 2019 and 2018?",
+                "pid": [418],
+                "type": "table"
+            },
+            {
+                "query": "What is the average value of Packaging materials for October 31, 2019 and 2018?",
+                "pid": [418],
+                "type": "table"
+            },
+            {
+                "query": "What is the average value of Prepared chicken for October 31, 2019 and 2018?",
+                "pid": [418],
+                "type": "table"
+            }
+        ]
+    },
+    {
+        "uid": "3f291d65827cf249570612c24a751e81",
+        "source": "advanced-energy_2019.pdf",
+        "inc": "advanced energy industries inc",
+        "url": "https://www.sec.gov/Archives/edgar/data/927003/0001558370-20-001892-index.htm",
+        "questions": [
+            {
+                "query": "What was the company's accrued interest and penalties in 2019?",
+                "pid": [529],
+                "type": "text"
+            },
+            {
+                "query": "What was the balance of total gross unrecognized tax benefits at the end of period in 2018?",
+                "pid": [527, 528],
+                "type": "both"
+            },
+            {
+                "query": "What was the Additions based on tax positions taken during a prior period in 2019?",
+                "pid": [528],
+                "type": "table"
+            },
+            {
+                "query": "What was the change in the balance at the beginning of period between 2018 and 2019?",
+                "pid": [528],
+                "type": "table"
+            },
+            {
+                "query": "What was the change in Additions based on tax positions taken during a prior period between 2017 and 2018?",
+                "pid": [528],
+                "type": "table"
+            },
+            {
+                "query": "What was the percentage change in the Reductions related to a lapse of applicable statute of limitations between 2017 and 2018?",
+                "pid": [528],
+                "type": "table"
+            }
+        ]
+    },
+    {
+        "uid": "ad4a7e874ca9fb1684c3dd056b8cf966",
+        "source": "te-connectivity-ltd_2019.pdf",
+        "inc": "te connectivity ltd.",
+        "url": "https://www.sec.gov/Archives/edgar/data/1385157/0001558370-19-010758-index.htm",
+        "questions": [
+            {
+                "query": "What is the Total assets for 2019?",
+                "pid": [173],
+                "type": "table"
+            },
+            {
+                "query": "Which years are the total assets calculated for?",
+                "pid": [173],
+                "type": "table"
+            }
+        ]
+    },
+    {
+        "uid": "1df5c844392a7823c038c5b8f0cec73d",
+        "source": "te-connectivity-ltd_2019.pdf",
+        "inc": "te connectivity ltd.",
+        "url": "https://www.sec.gov/Archives/edgar/data/1385157/0001558370-19-010758-index.htm",
+        "questions": [
+            {
+                "query": "What program was initiated during fiscal 2019?",
+                "pid": [239],
+                "type": "text"
+            }
+        ]
+    },
+    {
+        "uid": "3b849500b1ec818ec9b2dbdf9f114a72",
+        "source": "godaddy-inc_2019.pdf",
+        "inc": "godaddy inc.",
+        "url": "https://www.sec.gov/Archives/edgar/data/1609711/0001609711-20-000022-index.htm",
+        "questions": [
+            {
+                "query": "How much was the derivative liabilities as at December 31, 2019?",
+                "pid": [716, 783, 817],
+                "type": "table"
+            },
+            {
+                "query": "How much was the derivative liabilities as at December 31, 2018?",
+                "pid": [714, 783, 817],
+                "type": "table"
+            },
+            {
+                "query": "What is the average tax related accruals for 2018 and 2019?",
+                "pid": [783],
+                "type": "table"
+            },
+            {
+                "query": "What is the average accrued payroll and employee benefits for 2018 and 2019?",
+                "pid": [783],
+                "type": "table"
+            },
+            {
+                "query": "What is the average derivative liabilities for 2018 and 2019?",
+                "pid": [783, 817],
+                "type": "table"
+            }
+        ]
+    }
+]
